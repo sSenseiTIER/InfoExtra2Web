@@ -158,6 +158,21 @@
       "action": "automatic_detection_and_processing",
       "timestamp": "2025-09-08T21:43:49.090884+00:00",
       "bot_modality": "Sword"
+    },
+    {
+      "minecraft_name": "Vayju",
+      "discord_user_id": 823659261183262730,
+      "punishment_type": "unknown",
+      "reason": "test27371",
+      "expires": null,
+      "detected_by_bot": "Sword",
+      "channels_notified": [
+        "Sword"
+      ],
+      "roles_removed": true,
+      "action": "automatic_detection_and_processing",
+      "timestamp": "2025-09-08T22:09:04.380002+00:00",
+      "bot_modality": "Sword"
     }
   ]
 }
