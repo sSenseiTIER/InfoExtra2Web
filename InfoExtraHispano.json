@@ -1061,16 +1061,8 @@
       "changes_detected": 0,
       "action": "daily_uuid_verification",
       "changes_summary": [],
-      "timestamp": "2025-10-06T00:21:38.323425+00:00",
-      "bot_modality": "Sword"
-    },
-    {
-      "total_players_checked": 0,
-      "changes_detected": 0,
-      "action": "daily_uuid_verification",
-      "changes_summary": [],
-      "timestamp": "2025-10-06T00:27:10.168463+00:00",
-      "bot_modality": "Sword"
+      "timestamp": "2025-10-06T01:15:21.589255+00:00",
+      "bot_modality": "CrystalPvP"
     }
   ],
   "cheater_detections": [
